@@ -42,13 +42,18 @@ section p::first-letter {
     border-radius: 0;
     border: 0;
 }
+
+.navbar-default .navbar-text{
+    color: #000000;
+}
+
 .navbar-brand p {
     font-size: 2em;
     font-family: "Comic Sans MS";
-    color: #000000;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 /****Blocker****/
 #chicken {
     height: 1000px;
 }
-
