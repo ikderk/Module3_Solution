@@ -48,10 +48,7 @@ section p::first-letter {
     color: #000000;
 }
 /****Blocker****/
-.jumbo {
-        background-color: green;
-        height: 1000px;
-         padding: 0;
-        margin-right: -15px;
-        margin-left: -15px;
-    }
+#chicken {
+    height: 1000px;
+}
+
