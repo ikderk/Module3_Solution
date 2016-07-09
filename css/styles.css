@@ -51,4 +51,7 @@ section p::first-letter {
 .jumbo {
         background-color: green;
         height: 1000px;
+         padding: 0;
+        margin-right: -15px;
+        margin-left: -15px;
     }
