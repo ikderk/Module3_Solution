@@ -43,11 +43,9 @@ section p::first-letter {
     border: 0;
 }
 
-.navbar-default .navbar-text{
-    color: #000000;
-}
 
 .navbar-brand p {
+    color: #000000;
     font-size: 2em;
     font-family: "Comic Sans MS";
     margin-bottom: 0px;
